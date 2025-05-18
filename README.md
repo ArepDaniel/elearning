@@ -70,7 +70,7 @@ A comprehensive web-based e-learning management platform designed to support stu
 
 2. **Setup**
    ```bash
-   git clone https://github.com/yourusername/usas-elearning.git
+   git clone https://github.com/ArepDaniel/elearning.git
    cd usas-elearning
    ```
 
