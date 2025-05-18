@@ -1,0 +1,8 @@
+/* styles.css */
+.table th, .table td {
+    text-align: center;
+}
+
+.alert-info {
+    font-size: 1.2em;
+}
