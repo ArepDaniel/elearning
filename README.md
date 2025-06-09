@@ -9,6 +9,7 @@ A comprehensive web-based e-learning management platform designed to support stu
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Composer](#composer)
 - [Database Schema](#database-schema)
 - [Usage](#usage)
 - [File Upload Formats](#file-upload-formats)
@@ -91,7 +92,15 @@ A comprehensive web-based e-learning management platform designed to support stu
 5. **Access**
    - Navigate to `login.php` in your web browser
    - Use default credentials from the database dump to log in
+  
+## Composer 
+1. **PHPWord**
+   - store src and others file in ProjectName*/vendor/phpoffice/PHPWord-Master
 
+2. ***PDFParser**
+   - Download in Your System Path
+
+3. ****
 ## Database Schema
 
 ### `user` Table
