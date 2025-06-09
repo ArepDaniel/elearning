@@ -100,7 +100,6 @@ A comprehensive web-based e-learning management platform designed to support stu
 2. ***PDFParser**
    - Download in Your System Path
 
-3. ****
 ## Database Schema
 
 ### `user` Table
