@@ -97,10 +97,10 @@ A comprehensive web-based e-learning management platform designed to support stu
 1. **PHPWord**
    - store src and others file in ProjectName*/vendor/phpoffice/PHPWord-Master
 
-2. ***PDFParser**
+2. **PDFParser**
    - Download in Your System Path
 
-3. ***PHPExcel***
+3. **PHPExcel**
    - Download in Your System Path(Optional)
 
 ## Database Schema
